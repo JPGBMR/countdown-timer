@@ -1,5 +1,7 @@
 # Countdown Timer
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-jpgbmr.github.io-58a6ff?style=flat-square)](https://jpgbmr.github.io/countdown-timer/)
+
 Live countdown timer to any target date and time
 
 ## Tech Stack
